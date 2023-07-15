@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 Project List 
 
 Mini Projects
--Todo List
--Todo_List OOP
--Music Player
--Quiz Aps
--Qoutes Generator
+- Todo List
+- Todo_List OOP
+- Music Player
+- Quiz Aps
+- Quotes Generator
 
 System Project
 - Library Management System
