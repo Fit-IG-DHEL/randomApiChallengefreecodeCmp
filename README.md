@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fit-IG-DHEL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-End Developer
+- 🌱 I’m currently learning ReactJS...
+- 💞️ I’m looking to collaborate with my dear Friend callemeSAUCES...
 - 📫 How to reach me ...
 
 <!---
@@ -11,12 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 Project List 
 
-Mini Projects
+Mini Projects or Activities (Feature Set)
 - Todo List
 - Todo_List OOP
 - Music Player
 - Quiz Aps
 - Quotes Generator
+- Movie like NetFlex -Edit Function Using ReactJS
 
 System Project
 - Library Management System
