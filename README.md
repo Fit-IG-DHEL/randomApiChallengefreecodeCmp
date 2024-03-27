@@ -17,7 +17,7 @@ Mini Projects or Activities (Feature Set)
 - Music Player
 - Quiz Aps
 - Quotes Generator
-- Movie like NetFlex -Edit Function Using ReactJS
+- Movie like NetFlex - Using ReactJS
 
 System Project
 - Library Management System
